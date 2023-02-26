@@ -16,6 +16,6 @@ to a set of pins for example PB9 is connected to pin 19
 on arduino board
 ```
 
-** so how do we write data to portb 5 **
+**so how do we write data to portb 5**
 
 ![](./pics/portb_config.png)
