@@ -4,7 +4,7 @@
 
 ![](./pics/arduino_mcu_architecture.png)
 ![](./pics/atmega_pinout.png)
-![](./pins/atmega_block_diagram.png)
+![](pics/atmega_block_diagram.png)
 
 ```
 as you can see the built in led is connected to PB5
