@@ -19,3 +19,8 @@ on arduino board
 **so how do we write data to portb 5**
 
 ![](./pics/portb_config.png)
+
+```
+if we want to set pin 5 HIGH and we need first to make
+sure that pin 5 is output here comes ddrb
+```
